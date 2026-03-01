@@ -1,0 +1,198 @@
+{
+    "concepts": {
+      "ganjitsu": {
+        "id": "holiday001",
+        "label": "元日",
+        "englishLabel": "New Year's Day",
+        "description": "1月1日・年のはじめを祝う最も重要な祝日",
+        "category": "tradition_ancestor",
+        "season": "winter",
+        "culturalLevel": "essential",
+        "relatedConcepts": ["seijin-no-hi", "hatsumode", "nengajo", "osechi"],
+        "themes": ["年神様", "初詣", "新年", "家族団らん"],
+        "experienceType": "family_religious"
+      },
+      "seijin-no-hi": {
+        "id": "holiday002",
+        "label": "成人の日",
+        "englishLabel": "Coming of Age Day",
+        "description": "1月第2月曜日・20歳の成人を祝う",
+        "category": "life_generation",
+        "season": "winter",
+        "culturalLevel": "intermediate",
+        "relatedConcepts": ["kodomo-no-hi", "furisode", "genpuku"],
+        "themes": ["成長の祝い", "晴れ着", "人生の節目"],
+        "experienceType": "ceremonial_visual"
+      },
+      "kenkoku": {
+        "id": "holiday003",
+        "label": "建国記念の日",
+        "englishLabel": "National Foundation Day",
+        "description": "2月11日・建国をしのぶ日",
+        "category": "imperial_national",
+        "season": "winter",
+        "culturalLevel": "advanced",
+        "relatedConcepts": ["tennou-tanjoubi", "bunka-no-hi", "jinmu-tennou", "kigensetsu"],
+        "themes": ["建国神話", "日本の成り立ち", "歴史"],
+        "experienceType": "intellectual_historical"
+      },
+      "tennou-tanjoubi": {
+        "id": "holiday004",
+        "label": "天皇誕生日",
+        "englishLabel": "Emperor's Birthday",
+        "description": "2月23日・天皇の誕生日を祝う",
+        "category": "imperial_national",
+        "season": "winter",
+        "culturalLevel": "intermediate",
+        "relatedConcepts": ["kenkoku", "showa-no-hi", "bunka-no-hi", "kokyo-sanga"],
+        "themes": ["皇室", "象徴天皇制", "一般参賀"],
+        "experienceType": "ceremonial_observational"
+      },
+      "shunbun": {
+        "id": "holiday005",
+        "label": "春分の日",
+        "englishLabel": "Vernal Equinox Day",
+        "description": "3月20日頃・自然をたたえ、生物をいつくしむ",
+        "category": "nature_season",
+        "season": "spring",
+        "culturalLevel": "beginner",
+        "relatedConcepts": ["shubun", "ohigan", "hakamairi", "botamochi"],
+        "themes": ["お彼岸", "先祖供養", "自然", "二十四節気"],
+        "experienceType": "nature_religious"
+      },
+      "showa-no-hi": {
+        "id": "holiday006",
+        "label": "昭和の日",
+        "englishLabel": "Showa Day",
+        "description": "4月29日・昭和の時代を顧みる日",
+        "category": "imperial_national",
+        "season": "spring",
+        "culturalLevel": "advanced",
+        "relatedConcepts": ["tennou-tanjoubi", "midori-no-hi", "golden-week", "showa-tennou"],
+        "themes": ["昭和時代", "戦後復興", "歴史の変遷"],
+        "experienceType": "intellectual_historical"
+      },
+      "kenpo-kinenbi": {
+        "id": "holiday007",
+        "label": "憲法記念日",
+        "englishLabel": "Constitution Memorial Day",
+        "description": "5月3日・日本国憲法の施行を記念",
+        "category": "postwar_democracy",
+        "season": "spring",
+        "culturalLevel": "advanced",
+        "relatedConcepts": ["bunka-no-hi", "golden-week", "heiwa-shugi"],
+        "themes": ["民主主義", "平和憲法", "戦後"],
+        "experienceType": "intellectual_civic"
+      },
+      "midori-no-hi": {
+        "id": "holiday008",
+        "label": "みどりの日",
+        "englishLabel": "Greenery Day",
+        "description": "5月4日・自然に親しむ日",
+        "category": "nature_season",
+        "season": "spring",
+        "culturalLevel": "beginner",
+        "relatedConcepts": ["showa-no-hi", "yama-no-hi", "umi-no-hi", "golden-week"],
+        "themes": ["自然愛護", "環境", "緑"],
+        "experienceType": "nature_recreational"
+      },
+      "kodomo-no-hi": {
+        "id": "holiday009",
+        "label": "こどもの日",
+        "englishLabel": "Children's Day",
+        "description": "5月5日・こどもの幸福を願う日",
+        "category": "life_generation",
+        "season": "spring",
+        "culturalLevel": "beginner",
+        "relatedConcepts": ["seijin-no-hi", "tango-no-sekku", "koinobori", "golden-week"],
+        "themes": ["端午の節句", "子どもの成長", "五節句"],
+        "experienceType": "family_festive"
+      },
+      "umi-no-hi": {
+        "id": "holiday010",
+        "label": "海の日",
+        "englishLabel": "Marine Day",
+        "description": "7月第3月曜日・海の恩恵に感謝",
+        "category": "nature_season",
+        "season": "summer",
+        "culturalLevel": "beginner",
+        "relatedConcepts": ["yama-no-hi", "midori-no-hi", "shimaguni"],
+        "themes": ["海洋国家", "自然の恵み", "夏のレジャー"],
+        "experienceType": "nature_recreational"
+      },
+      "yama-no-hi": {
+        "id": "holiday011",
+        "label": "山の日",
+        "englishLabel": "Mountain Day",
+        "description": "8月11日・山に親しむ日",
+        "category": "nature_season",
+        "season": "summer",
+        "culturalLevel": "beginner",
+        "relatedConcepts": ["umi-no-hi", "midori-no-hi", "sangaku-shinko"],
+        "themes": ["山岳信仰", "自然の恵み", "登山"],
+        "experienceType": "nature_recreational"
+      },
+      "keiro-no-hi": {
+        "id": "holiday012",
+        "label": "敬老の日",
+        "englishLabel": "Respect for the Aged Day",
+        "description": "9月第3月曜日・老人を敬愛し長寿を祝う",
+        "category": "life_generation",
+        "season": "autumn",
+        "culturalLevel": "intermediate",
+        "relatedConcepts": ["kodomo-no-hi", "jukyo", "silver-week"],
+        "themes": ["高齢者尊重", "長寿", "儒教的価値観"],
+        "experienceType": "family_social"
+      },
+      "shubun": {
+        "id": "holiday013",
+        "label": "秋分の日",
+        "englishLabel": "Autumnal Equinox Day",
+        "description": "9月22日頃・祖先をうやまう",
+        "category": "tradition_ancestor",
+        "season": "autumn",
+        "culturalLevel": "beginner",
+        "relatedConcepts": ["shunbun", "ohigan", "hakamairi", "silver-week"],
+        "themes": ["お彼岸", "先祖供養", "収穫感謝"],
+        "experienceType": "nature_religious"
+      },
+      "sports-no-hi": {
+        "id": "holiday014",
+        "label": "スポーツの日",
+        "englishLabel": "Sports Day",
+        "description": "10月第2月曜日・スポーツを楽しむ日",
+        "category": "postwar_democracy",
+        "season": "autumn",
+        "culturalLevel": "beginner",
+        "relatedConcepts": ["bunka-no-hi", "tokyo-olympic", "taiiku-no-hi"],
+        "themes": ["1964東京五輪", "健康", "戦後復興"],
+        "experienceType": "recreational_participatory"
+      },
+      "bunka-no-hi": {
+        "id": "holiday015",
+        "label": "文化の日",
+        "englishLabel": "Culture Day",
+        "description": "11月3日・自由と平和を愛し文化をすすめる",
+        "category": "postwar_democracy",
+        "season": "autumn",
+        "culturalLevel": "intermediate",
+        "relatedConcepts": ["kenpo-kinenbi", "kenkoku", "meiji-tennou", "bunka-kunsho"],
+        "themes": ["文化芸術", "平和", "憲法公布日"],
+        "experienceType": "cultural_intellectual"
+      },
+      "kinro-kansha": {
+        "id": "holiday016",
+        "label": "勤労感謝の日",
+        "englishTitle": "Labor Thanksgiving Day",
+        "description": "11月23日・勤労を尊び生産を祝う",
+        "category": "tradition_ancestor",
+        "season": "autumn",
+        "culturalLevel": "intermediate",
+        "relatedConcepts": ["shunbun", "shubun", "niinamesai", "shukaku"],
+        "themes": ["新嘗祭", "収穫感謝", "勤労"],
+        "experienceType": "cultural_reflective"
+      }
+    }
+
+}   
+

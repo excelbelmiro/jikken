@@ -1,0 +1,395 @@
+{
+  "documents": [
+    {
+      "id": "holiday001",
+      "title": "元日",
+      "englishTitle": "New Year's Day",
+      "content": "1月1日。年のはじめを祝う日本で最も重要な祝日。神道の年神様を迎え、初詣で神社仏閣に参拝する。おせち料理やお雑煮を食べ、年賀状を交わす習慣がある。",
+      "category": "national_holiday",
+      "date": "1月1日",
+      "origin": "年神様信仰、新暦採用（1873年）",
+      "established": 1948,
+      "culturalTheme": "先祖供養・伝統行事",
+      "prerequisites": [
+        "旧暦と新暦の違い",
+        "神道における年神様の概念",
+        "初詣の習慣",
+        "おせち料理・お雑煮の意味"
+      ],
+      "relatedHolidays": ["成人の日"],
+      "activities": {
+        "beginner": ["初詣に行く", "お雑煮を食べる", "年賀状を送る"],
+        "intermediate": ["除夜の鐘を聞く", "おせち料理の意味を学ぶ", "初日の出を見る"],
+        "advanced": ["神社での作法を学ぶ", "正月飾りの意味を理解", "年神様を迎える儀式を知る"]
+      }
+    },
+    {
+      "id": "holiday002",
+      "title": "成人の日",
+      "englishTitle": "Coming of Age Day",
+      "content": "1月第2月曜日。大人になったことを自覚し、自ら生き抜こうとする青年を祝い励ます日。20歳を迎えた若者が振袖や袴などの晴れ着で成人式に参加する。",
+      "category": "national_holiday",
+      "date": "1月第2月曜日",
+      "origin": "元服の儀式",
+      "established": 1948,
+      "moved_to_monday": 2000,
+      "culturalTheme": "人生・世代関連",
+      "prerequisites": [
+        "成人年齢（2022年以降18歳、祝いは20歳）",
+        "人生の節目を社会で祝う文化",
+        "振袖など晴れ着の文化"
+      ],
+      "relatedHolidays": ["こどもの日"],
+      "activities": {
+        "beginner": ["成人式の様子を見学", "振袖姿の写真を撮る"],
+        "intermediate": ["地域の成人式イベントに参加", "日本の成人の責任・権利について学ぶ"],
+        "advanced": ["着物の種類や格の違いを理解", "地域ごとの成人式の違いを比較"]
+      }
+    },
+    {
+      "id": "holiday003",
+      "title": "建国記念の日",
+      "englishTitle": "National Foundation Day",
+      "content": "2月11日。日本書紀で神武天皇が即位したとされる日（紀元前660年）を記念。建国をしのび、国を愛する心を養う日とされる。戦前の紀元節が由来。",
+      "category": "national_holiday",
+      "date": "2月11日",
+      "origin": "神武天皇即位伝承、紀元節（1873-1948）",
+      "established": 1966,
+      "culturalTheme": "皇室・国家関連",
+      "prerequisites": [
+        "神武天皇の即位伝承",
+        "日本神話と歴史の境界の曖昧さ",
+        "戦前の「紀元節」の歴史"
+      ],
+      "relatedHolidays": ["文化の日", "天皇誕生日"],
+      "activities": {
+        "beginner": ["日本の建国神話を読む", "国旗を掲げる家を観察"],
+        "intermediate": ["古事記・日本書紀の建国部分を学ぶ", "橿原神宮など関連神社を訪問"],
+        "advanced": ["神話と史実の関係を理解", "戦前・戦後での祝日の意味変化を学ぶ"]
+      }
+    },
+    {
+      "id": "holiday004",
+      "title": "天皇誕生日",
+      "englishTitle": "Emperor's Birthday",
+      "content": "2月23日。天皇の誕生日を祝う日。現在の今上天皇（徳仁天皇）の誕生日。天皇が代替わりすると祝日の日付も変わる。皇居で一般参賀が行われる。",
+      "category": "national_holiday",
+      "date": "2月23日",
+      "origin": "天皇制度",
+      "established": 1948,
+      "note": "天皇の代替わりで日付変更（平成：12月23日、昭和：4月29日）",
+      "culturalTheme": "皇室・国家関連",
+      "prerequisites": [
+        "天皇制度と象徴天皇の役割",
+        "天皇が代替わりすると日付が変わる",
+        "皇居一般参賀の習慣"
+      ],
+      "relatedHolidays": ["昭和の日", "文化の日"],
+      "activities": {
+        "beginner": ["皇居一般参賀に参加", "天皇陛下のお言葉を聞く"],
+        "intermediate": ["天皇制の歴史を学ぶ", "歴代天皇誕生日の変遷を知る"],
+        "advanced": ["立憲君主制と象徴天皇制の違いを理解", "皇室外交の役割を学ぶ"]
+      }
+    },
+    {
+      "id": "holiday005",
+      "title": "春分の日",
+      "englishTitle": "Vernal Equinox Day",
+      "content": "3月20日または21日（年により変動）。自然をたたえ、生物をいつくしむ日。昼と夜の長さがほぼ等しくなる。お彼岸の中日で先祖供養の習慣がある。",
+      "category": "national_holiday",
+      "date": "3月20日または21日",
+      "origin": "二十四節気、春季皇霊祭",
+      "established": 1948,
+      "culturalTheme": "先祖供養・伝統行事",
+      "prerequisites": [
+        "二十四節気と天文学的な春分点",
+        "お彼岸（先祖供養の週間）",
+        "仏教と神道の習合"
+      ],
+      "relatedHolidays": ["秋分の日"],
+      "activities": {
+        "beginner": ["お墓参りに同行", "ぼたもち（おはぎ）を食べる"],
+        "intermediate": ["お彼岸の7日間の意味を学ぶ", "寺院での法要に参加"],
+        "advanced": ["彼岸思想の仏教的意味", "二十四節気の科学的・文化的側面を理解"]
+      }
+    },
+    {
+      "id": "holiday006",
+      "title": "昭和の日",
+      "englishTitle": "Showa Day",
+      "content": "4月29日。激動の日々を経て、復興を遂げた昭和の時代を顧み、国の将来に思いをいたす日。昭和天皇の誕生日が由来。",
+      "category": "national_holiday",
+      "date": "4月29日",
+      "origin": "昭和天皇誕生日",
+      "established": 2007,
+      "note": "天皇誕生日（1948-1988）→みどりの日（1989-2006）→昭和の日（2007-）",
+      "culturalTheme": "皇室・国家関連",
+      "prerequisites": [
+        "昭和天皇（1926-1989）の治世",
+        "戦前・戦中・戦後の激動の時代",
+        "祝日名称の変遷"
+      ],
+      "relatedHolidays": ["みどりの日", "天皇誕生日"],
+      "activities": {
+        "beginner": ["昭和レトロな場所を訪問", "昭和時代の映画・ドラマを観る"],
+        "intermediate": ["昭和館など昭和史の博物館を訪問", "戦後復興の歴史を学ぶ"],
+        "advanced": ["昭和天皇の戦争責任論を含む複雑な歴史を理解", "祝日名変更の政治的背景を学ぶ"]
+      }
+    },
+    {
+      "id": "holiday007",
+      "title": "憲法記念日",
+      "englishTitle": "Constitution Memorial Day",
+      "content": "5月3日。日本国憲法の施行を記念し、国の成長を期する日。1947年5月3日に日本国憲法が施行された。国民主権、基本的人権の尊重、平和主義の三大原則を持つ。",
+      "category": "national_holiday",
+      "date": "5月3日",
+      "origin": "日本国憲法施行（1947年）",
+      "established": 1948,
+      "culturalTheme": "戦後民主主義関連",
+      "prerequisites": [
+        "日本国憲法施行（1947年5月3日）",
+        "戦後民主主義と平和主義",
+        "憲法9条（戦争放棄）の理念"
+      ],
+      "relatedHolidays": ["文化の日"],
+      "activities": {
+        "beginner": ["日本国憲法の三大原則を学ぶ"],
+        "intermediate": ["憲法記念日の関連イベントに参加", "憲法論議を観察"],
+        "advanced": ["大日本帝国憲法との違いを理解", "憲法改正論議の背景を学ぶ", "GHQの関与を知る"]
+      }
+    },
+    {
+      "id": "holiday008",
+      "title": "みどりの日",
+      "englishTitle": "Greenery Day",
+      "content": "5月4日。自然に親しむとともにその恩恵に感謝し、豊かな心をはぐくむ日。自然をこよなく愛した昭和天皇にちなむ。ゴールデンウィークの一部。",
+      "category": "national_holiday",
+      "date": "5月4日",
+      "origin": "昭和天皇の自然愛好",
+      "established": 2007,
+      "note": "1989-2006年は4月29日",
+      "culturalTheme": "自然・季節関連",
+      "prerequisites": [
+        "昭和天皇の自然愛好",
+        "ゴールデンウィーク連休形成の歴史",
+        "環境保護意識"
+      ],
+      "relatedHolidays": ["昭和の日", "山の日"],
+      "activities": {
+        "beginner": ["公園や植物園を訪問", "自然に親しむ"],
+        "intermediate": ["無料開放される国立公園・庭園を訪問", "環境イベントに参加"],
+        "advanced": ["昭和天皇の生物学研究への貢献を学ぶ", "祝日配置の政治的意図を理解"]
+      }
+    },
+    {
+      "id": "holiday009",
+      "title": "こどもの日",
+      "englishTitle": "Children's Day",
+      "content": "5月5日。こどもの人格を重んじ、こどもの幸福をはかるとともに、母に感謝する日。端午の節句に由来し、鯉のぼりや兜を飾る習慣がある。",
+      "category": "national_holiday",
+      "date": "5月5日",
+      "origin": "端午の節句",
+      "established": 1948,
+      "culturalTheme": "人生・世代関連",
+      "prerequisites": [
+        "端午の節句（男の子の節句）の由来",
+        "鯉のぼり、兜飾りの象徴的意味",
+        "五節句の一つ"
+      ],
+      "relatedHolidays": ["成人の日"],
+      "activities": {
+        "beginner": ["鯉のぼりを見る", "柏餅やちまきを食べる", "菖蒲湯に入る"],
+        "intermediate": ["五節句の意味を学ぶ", "兜飾りの武将の歴史を知る"],
+        "advanced": ["中国由来の端午節との違いを理解", "男児の節句から「こども」全体への変遷を学ぶ"]
+      }
+    },
+    {
+      "id": "holiday010",
+      "title": "海の日",
+      "englishTitle": "Marine Day",
+      "content": "7月第3月曜日。海の恩恵に感謝するとともに、海洋国日本の繁栄を願う日。1876年、明治天皇の東北地方巡幸の際、船で横浜港に帰着したことに由来。",
+      "category": "national_holiday",
+      "date": "7月第3月曜日",
+      "origin": "明治天皇の船旅（1876年）",
+      "established": 1996,
+      "moved_to_monday": 2003,
+      "culturalTheme": "自然・季節関連",
+      "prerequisites": [
+        "島国日本の海洋文化",
+        "明治天皇の船旅が由来",
+        "比較的新しい祝日"
+      ],
+      "relatedHolidays": ["山の日"],
+      "activities": {
+        "beginner": ["海水浴やマリンスポーツを楽しむ", "海鮮料理を食べる"],
+        "intermediate": ["海洋関連の博物館・水族館を訪問", "海の環境保護イベントに参加"],
+        "advanced": ["日本の海運史・漁業文化を学ぶ", "海洋国家としての日本の課題を理解"]
+      }
+    },
+    {
+      "id": "holiday011",
+      "title": "山の日",
+      "englishTitle": "Mountain Day",
+      "content": "8月11日。山に親しむ機会を得て、山の恩恵に感謝する日。日本で最も新しい国民の祝日。日本の国土の約70%が山岳地帯であることを反映。",
+      "category": "national_holiday",
+      "date": "8月11日",
+      "origin": "山岳団体の要望",
+      "established": 2016,
+      "culturalTheme": "自然・季節関連",
+      "prerequisites": [
+        "日本の国土の約70%が山岳地帯",
+        "山岳信仰（修験道など）",
+        "最も新しい祝日"
+      ],
+      "relatedHolidays": ["海の日", "みどりの日"],
+      "activities": {
+        "beginner": ["ハイキングや登山を楽しむ", "山の景色を楽しむ"],
+        "intermediate": ["富士山など霊峰を訪問", "山岳信仰の聖地を巡る"],
+        "advanced": ["修験道の歴史と実践を学ぶ", "祝日制定の経緯を知る"]
+      }
+    },
+    {
+      "id": "holiday012",
+      "title": "敬老の日",
+      "englishTitle": "Respect for the Aged Day",
+      "content": "9月第3月曜日。多年にわたり社会につくしてきた老人を敬愛し、長寿を祝う日。高齢者を敬う儒教的価値観を反映。超高齢社会の日本を象徴する祝日。",
+      "category": "national_holiday",
+      "date": "9月第3月曜日",
+      "origin": "兵庫県多可町の「としよりの日」（1947年）",
+      "established": 1966,
+      "moved_to_monday": 2003,
+      "culturalTheme": "人生・世代関連",
+      "prerequisites": [
+        "高齢者を敬う儒教的価値観",
+        "日本の超高齢社会",
+        "家族・地域での高齢者の役割"
+      ],
+      "relatedHolidays": ["こどもの日"],
+      "activities": {
+        "beginner": ["高齢者にプレゼントを贈る", "敬老会イベントに参加"],
+        "intermediate": ["高齢者福祉施設を訪問", "三世代交流イベントに参加"],
+        "advanced": ["日本の高齢化社会の課題を学ぶ", "孝行の文化的背景を理解"]
+      }
+    },
+    {
+      "id": "holiday013",
+      "title": "秋分の日",
+      "englishTitle": "Autumnal Equinox Day",
+      "content": "9月22日または23日（年により変動）。祖先をうやまい、なくなった人々をしのぶ日。昼と夜の長さがほぼ等しくなる。お彼岸の中日で先祖供養を行う。",
+      "category": "national_holiday",
+      "date": "9月22日または23日",
+      "origin": "二十四節気、秋季皇霊祭",
+      "established": 1948,
+      "culturalTheme": "先祖供養・伝統行事",
+      "prerequisites": [
+        "春分の日と同じくお彼岸の中日",
+        "先祖供養の習慣",
+        "収穫への感謝"
+      ],
+      "relatedHolidays": ["春分の日"],
+      "activities": {
+        "beginner": ["お墓参り", "おはぎを食べる"],
+        "intermediate": ["お彼岸の仏教的意味を学ぶ", "秋の収穫祭に参加"],
+        "advanced": ["天文学的な秋分点の意味", "日本人の死生観を理解"]
+      }
+    },
+    {
+      "id": "holiday014",
+      "title": "スポーツの日",
+      "englishTitle": "Sports Day",
+      "content": "10月第2月曜日。スポーツを楽しみ、他者を尊重する精神を培うとともに、健康で活力ある社会の実現を願う日。1964年東京オリンピック開会式（10月10日）を記念。",
+      "category": "national_holiday",
+      "date": "10月第2月曜日",
+      "origin": "1964年東京オリンピック開会式",
+      "established": 1966,
+      "moved_to_monday": 2000,
+      "note": "体育の日（1966-2019）→スポーツの日（2020-）",
+      "culturalTheme": "戦後民主主義関連",
+      "prerequisites": [
+        "1964年東京オリンピック",
+        "体育の日からの改称",
+        "日本のスポーツ文化"
+      ],
+      "relatedHolidays": ["文化の日"],
+      "activities": {
+        "beginner": ["運動会や地域のスポーツイベントに参加", "スポーツ観戦"],
+        "intermediate": ["1964年東京五輪の歴史を学ぶ", "日本の伝統スポーツ（相撲・柔道）を体験"],
+        "advanced": ["戦後復興とオリンピックの関係を理解", "スポーツと国家イメージの関係を学ぶ"]
+      }
+    },
+    {
+      "id": "holiday015",
+      "title": "文化の日",
+      "englishTitle": "Culture Day",
+      "content": "11月3日。自由と平和を愛し、文化をすすめる日。日本国憲法が公布された日（1946年）であり、明治天皇の誕生日（明治節）でもある。文化勲章授与式が行われる。",
+      "category": "national_holiday",
+      "date": "11月3日",
+      "origin": "日本国憲法公布日（1946年）、明治天皇誕生日",
+      "established": 1948,
+      "culturalTheme": "戦後民主主義関連、皇室・国家関連",
+      "prerequisites": [
+        "日本国憲法公布の日",
+        "明治天皇誕生日（明治節）が由来",
+        "自由と平和を愛する文化の推進"
+      ],
+      "relatedHolidays": ["憲法記念日", "天皇誕生日", "建国記念の日"],
+      "activities": {
+        "beginner": ["無料開放される美術館・博物館を訪問", "文化祭に参加"],
+        "intermediate": ["文化勲章授与式について学ぶ", "伝統文化イベントに参加"],
+        "advanced": ["明治節から文化の日への変遷を理解", "平和と文化の関係性を学ぶ"]
+      }
+    },
+    {
+      "id": "holiday016",
+      "title": "勤労感謝の日",
+      "englishTitle": "Labor Thanksgiving Day",
+      "content": "11月23日。勤労をたっとび、生産を祝い、国民たがいに感謝しあう日。宮中行事の新嘗祭（収穫祭）が由来。戦後、勤労を重視する祝日に変更された。",
+      "category": "national_holiday",
+      "date": "11月23日",
+      "origin": "新嘗祭（収穫祭）",
+      "established": 1948,
+      "culturalTheme": "戦後民主主義関連、先祖供養・伝統行事",
+      "prerequisites": [
+        "新嘗祭（収穫祭）が由来",
+        "農耕文化と勤労観",
+        "戦後の「勤労」重視への変化"
+      ],
+      "relatedHolidays": ["春分の日", "秋分の日"],
+      "activities": {
+        "beginner": ["働いている人に感謝する", "収穫祭イベントに参加"],
+        "intermediate": ["新嘗祭の儀式を学ぶ", "地域の農業体験イベントに参加"],
+        "advanced": ["新嘗祭から勤労感謝への変遷を理解", "日本の労働観と宗教観の関係を学ぶ"]
+      }
+    }
+  ],
+  "metadata": {
+    "totalHolidays": 16,
+    "culturalThemes": {
+      "皇室・国家関連": ["建国記念の日", "天皇誕生日", "昭和の日", "文化の日"],
+      "自然・季節関連": ["春分の日", "秋分の日", "海の日", "山の日", "みどりの日"],
+      "人生・世代関連": ["成人の日", "こどもの日", "敬老の日"],
+      "戦後民主主義関連": ["憲法記念日", "文化の日", "勤労感謝の日", "スポーツの日"],
+      "先祖供養・伝統行事": ["元日", "春分の日", "秋分の日", "勤労感謝の日"]
+    },
+    "longWeekends": {
+      "ゴールデンウィーク": ["昭和の日", "憲法記念日", "みどりの日", "こどもの日"],
+      "シルバーウィーク": ["敬老の日", "秋分の日"]
+    },
+    "happyMonday": [
+      "成人の日",
+      "海の日",
+      "敬老の日",
+      "スポーツの日"
+    ],
+    "astronomicalHolidays": [
+      "春分の日",
+      "秋分の日"
+    ],
+    "tips": [
+      "ゴールデンウィーク（4月末〜5月初旬）とシルバーウィーク（9月）は大型連休で混雑する",
+      "ハッピーマンデー制度により一部の祝日は月曜日に移動して3連休となる",
+      "春分の日と秋分の日は天文観測により毎年日付が変わる",
+      "天皇誕生日は天皇の代替わりにより日付が変わる"
+    ]
+  }
+}
